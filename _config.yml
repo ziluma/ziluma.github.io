@@ -2,4 +2,8 @@ title: "Blog"
 author: "Zilu Ma"
 description: "Learning notes"
 
-remote_theme: alshedivat/al-folio
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+highlighter: rouge
