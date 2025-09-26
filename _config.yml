@@ -4,8 +4,11 @@ description: "Learning notes"
 
 theme: minima
 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
 markdown: kramdown
 kramdown:
   input: GFM
   math_engine: mathjax
-highlighter: rouge
