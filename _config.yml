@@ -2,6 +2,8 @@ title: "Blog"
 author: "Zilu Ma"
 description: "Learning notes"
 
+theme: minima
+
 markdown: kramdown
 kramdown:
   input: GFM
