@@ -2,6 +2,10 @@ title: "Blog"
 author: "Zilu Ma"
 description: "Learning notes"
 theme: minima
+
+url: "https://ziluma.github.io"
+baseurl: ""
+
 markdown: kramdown
 kramdown:
   input: GFM
